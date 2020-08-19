@@ -35,7 +35,7 @@ ReactDOM.render(<Demo />, mountNode);
 
 <style>
 #components-affix-demo-target .scrollable-container {
-  height: 100px;
+  height: 10px;
   overflow-y: scroll;
 }
 #components-affix-demo-target .background {
